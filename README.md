@@ -63,8 +63,7 @@ Mini stock investments allow **automated purchases at any time** for a number of
 #### Transaction Unit, Etc.
 * Transaction Unit: 1/10 of a trading unit of share certificates
 * Maximum number of shares: number of units calculated by multiplying one mini trading unit by nine
-* Notwithstanding the provisions of (i) above, as regards to the sales of share certificates less than one mini trading unit allotted as a result of a consolidation of shares, capital
-decrease or share split, or non-compensated share allotment etc., the transaction may be made in such number of shares
+* Notwithstanding the provisions of (i) above, as regards to the sales of share certificates less than one mini trading unit allotted as a result of a consolidation of shares, capital decrease or share split, or non-compensated share allotment etc., the transaction may be made in such number of shares
 
 #### Compliance
 A handling FIBO must comply with domestic laws and regulations set by
@@ -73,10 +72,8 @@ A handling FIBO must comply with domestic laws and regulations set by
 * Japan Securities Depository Center, Incorporated (JASDEC)
 
 #### Order Methods (Model Contract for "General Contract on Mini Stock Investment")
-A customer must clearly advise the fi nancial instruments business operator regarding the
-following matters upon placing a buy/sell order under a contract on mini stock investment (Model
-Contract, art. 4, para. 1, item 4):
-* Issue;
+A customer must clearly advise the fi nancial instruments business operator regarding the following matters upon placing a buy/sell order under a contract on mini stock investment (Model Contract, art. 4, para. 1, item 4):
+* Issue
 * Classifi cation of sale or purchase
 * Volume.
 
