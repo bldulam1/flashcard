@@ -20,6 +20,9 @@
 * A delayed delivery transaction is a contract in which both parties agree to the delivery of bonds at a predetermined date and under certain conditions, where delivery is scheduled at least one month later than the contract date.
 * Among bond issuing methods, “spread pricing” is the method where issuers will offer terms that state an amount to be added to the interest rate of government bonds when assessing market interest of investors. This method enables issuers to adapt more quickly to changes in the interest rates and get more detailed investor feedback.
 * In general, among several bond issues with the same yield and same maturity, issues with a higher interest rate have a higher price, whereas issues with a lower interest rate have a lower price.
+* **Simple Yield to Maturity**
+ 
+<img src="https://render.githubusercontent.com/render/math?math=SYTM =\frac{Coupon%2B\frac{Redemption Price - Purchase Price}{N}}{Purchase Price}">
 
 ## Derivatives Transactions
 * In options transactions of securities, the only value that exists in out-of-the-money is the time value.
