@@ -83,3 +83,37 @@ Conditions for Suspension of Order Acceptance
 * The closing period of the issuing company of the seleced issue nears, the period announced in advance by the handling FIBO
 * Other unavoidable circumstances arise
 
+## Fundamentals of Derivatives Transactions
+### Futures Transactions
+A person buying a contract is **obligated** to buy the underlying commodity at the contract price from the seller **on the expiration date**. Conversely, a person selling a contract is obligated to sell the underlying commodity at the contract price to the buyer on the expiration date.
+
+**Net cash settlement**
+a settlement method whereby only a difference between the “futures price at the time of purchase (or sale)” and the “futures prices at the time of settlement” is delivered.
+
+The reason for net cash settlement is that a share price index is an abstract thing for which it is impossible to deliver the actual shares, and thus the underlying product in a share index futures transaction cannot be physically delivered.
+
+The “least expensive bond” refers to the bond for which the amount calculated by the formula, “futures price × conversion factor – spot price,” is the smallest.
+
+**Characteristics**
+* An Offsetting (Equal and Opposite) Trade Can Be Executed at Any Time
+* Difference from Margin Trading
+  * There Is No Borrowing and Lending Relationship in Futures Transactions
+  * In Futures Transactions, Futures Prices Are Determined Independently from Spot Transactions
+
+
+## Options Transactions
+An options transaction is a transaction in which one purchases or sells the right to buy or sell
+a specified financial product (underlying securities or underlying assets) at a specified price
+(known as the **“exercise price**” or “**strike price**”) by a specified future date, regardless of the
+market price of that underlying securities at the time.
+
+### Call Option
+right to purchase the underlying securities
+
+### Put Option
+right to sell the underlying securities
+
+### Premium / Upfront Premium
+* cost of the option
+* usually **paid at the beginning of the transaction by the seller** to the buyer
+

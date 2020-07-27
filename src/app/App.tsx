@@ -71,7 +71,7 @@ export default () => {
         }
       }
     })
-    const results = score/testBank.length > 0.7 ? "PASSED" : "FAILED"
+    const results = score / testBank.length > 0.7 ? "PASSED" : "FAILED"
     alert(`Score: ${score}/${testBank.length}, Judgement: ${results}`)
   }
 
@@ -120,9 +120,7 @@ export default () => {
           <Button
             variant="contained"
             color="primary"
-            disabled={
-              state.index > state._questions.length - 2 || !selectedAnswers.size
-            }
+            disabled={state.index > state._questions.length - 2}
             onClick={() => handlePageChange(1)}
             size="small"
           >
